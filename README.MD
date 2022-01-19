@@ -2,7 +2,7 @@
 
 * Horiseon provides SEO serivice globally. 
 
-* If you have any questions,please feel free to contact us at info@heriseon.com
+* If you have any questions, please feel free to contact us at info@heriseon.com
 
 
 ## Demo Screenshot
