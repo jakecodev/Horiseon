@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER STYLE START */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,7 +46,10 @@ body {
     text-decoration: none;
 }
 
+/* HEADER STYLE END */
 
+
+/* CONTENT STYLE START */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,7 +76,7 @@ body {
     color:#ffffff;
 }
 
-.service p, benefits p {
+.service p {
     font-size: 16px;
 }
 
@@ -109,6 +113,9 @@ body {
     background-color: #2589bd;
 }
 
+benefits p {
+    font-size: 16px;
+}
 
 .benefits div {
     margin-bottom: 32px;
@@ -125,6 +132,9 @@ body {
     max-width: 150px;
 }
 
+/* CONTENT STYLE END */
+
+/* FOOTER STYLE START */
 .footer {
     padding: 30px;
     clear: both;
@@ -135,3 +145,7 @@ body {
 .footer h2 {
     font-size: 20px;
 }
+
+/* FOOTER STYLE END */
+
+/* REACH OUT STYLES END */
