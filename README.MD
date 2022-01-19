@@ -6,7 +6,7 @@
 
 
 ## Demo Screenshot
-
+![image](https://github.com/fullstackneo/Horiseon/blob/main/screenshot/demo.png)
 
 
 ## link
