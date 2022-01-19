@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    color:#ffffff;
 }
 
 /* HEADER STYLE START */
@@ -73,7 +74,6 @@ body {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    color:#ffffff;
 }
 
 .service p {
@@ -108,12 +108,11 @@ body {
     float: right;
     width: 20%;
     height: 100%;
-    color:#ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
-benefits p {
+.benefits p {
     font-size: 16px;
 }
 
@@ -138,6 +137,7 @@ benefits p {
 .footer {
     padding: 30px;
     clear: both;
+    color: #000000;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
